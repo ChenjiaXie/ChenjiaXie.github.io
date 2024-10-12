@@ -5,6 +5,8 @@ main:
     conference_short: TVLSI
     conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10695783
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/PDE.png
     notes: Early Accept
 
@@ -13,6 +15,8 @@ main:
     conference_short: TVLSI
     conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345554
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/SNN.png
     notes: Accepted
 
@@ -21,6 +25,9 @@ main:
     conference_short: TCAISI
     conference: IEEE Transactions on Circuits and Systems I: Regular Papers
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10167756
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/CNN2.png
     notes: Accepted
 
@@ -29,5 +36,8 @@ main:
     conference_short: ISCAS
     conference: IEEE International Symposium on Circuits and Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937412
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/CNN1.png
     notes: Accepted
