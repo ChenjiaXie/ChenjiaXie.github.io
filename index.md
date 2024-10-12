@@ -4,20 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I received the B.S. degree in electronics and information engineering from the Huazhong University of Science and Technology, Wuhan, China, in 2020. I am currently  a Ph.D. student at the School of Electronic Science and Engineering in Nanjing University. My research interests include designs of machine-learning hardware accelerators, compiler migration, and deep neural network compression.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Software:** Quantization and Compression methods for AI.
+- **Hardware:** Efficient hardware acceleration for AI algorithms.
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Internship
+- **[Jun. 2024 - Sep. 2024]** Research Intern in Architecture and Design Department at Huawei(ShenZhen)
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
