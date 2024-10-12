@@ -1,22 +1,33 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: A Fast-Convergence Near-Memory-Computing Accelerator for Solving Partial Differential Equations
+    authors: Chenjia Xie, Zhuang Shao, Ning Zhao, Xingyuan Hu, Yuan Du, Li Du (*Corresponding authors)
+    conference_short: TVLSI
+    conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10695783
+    image: ./assets/img/PDE.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: An Energy-Efficient Spiking Neural Network Accelerator Based on Spatio-Temporal Redundancy Reduction
+    authors: Chenjia Xie, Zhuang Shao, Zhicao Chen, Yuan Du, Li Du (*Corresponding authors)
+    conference_short: TVLSI
+    conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345554
+    image: ./assets/img/SNN.png
+    notes: Accepted
+
+  - title: "An Efficient CNN Inference Accelerator Based on Intra- and Inter-Channel Feature Map Compression"
+    authors: Chenjia Xie, Zhuang Shao, Ning Zhao, Yuan Du, Li Du (*Corresponding authors)
+    conference_short: TCAISI
+    conference: IEEE Transactions on Circuits and Systems I:Regular Papers
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10167756
+    image: ./assets/img/CNN2.png
+    notes: Accepted
+
+  - title: "Deep Neural Network Interlayer Feature Map Compression Based on Least-Squares Fitting"
+    authors: Chenjia Xie, Zhuang Shao, Hang Xu, Xiaoliang Chen, Yuan Du, Li Du (*Corresponding authors)
+    conference_short: ISCAS
+    conference: IEEE International Symposium on Circuits and Systems
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937412
+    image: ./assets/img/CNN1.png
+    notes: Accepted
